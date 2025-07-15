@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
-import 'alarm_calendar_widget.dart';
+import 'alarm_calendar.dart';
 
 void main() async {
   HttpOverrides.global = DevHttpOverrides();
